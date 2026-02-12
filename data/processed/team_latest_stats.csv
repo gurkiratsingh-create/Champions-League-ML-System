@@ -1,0 +1,693 @@
+Team,Elo,AvgGoals5,AvgConceded5,WinRate5,country
+Marseille,1743.63,2.6,1.4,0.7,FRA
+Troyes,1436.96,1.2,1.0,0.6,FRA
+Paris SG,1948.38,1.8,1.6,0.5,FRA
+Strasbourg,1714.25,1.6,1.2,0.6,FRA
+Wasquehal,1433.95,0.6,1.0,0.4,FRA
+Nancy,1287.34,1.0,2.2,0.3,FRA
+Niort,1260.03,0.8,2.2,0.1,FRA
+Angers,1535.58,1.2,1.0,0.6,FRA
+Nimes,1309.1,1.8,2.6,0.3,FRA
+Sochaux,1411.76,0.2,1.4,0.0,FRA
+Nice,1698.52,1.6,1.2,0.7,FRA
+Le Havre,1533.61,1.2,2.4,0.3,FRA
+Laval,1432.22,1.2,1.6,0.5,FRA
+Gueugnon,1369.86,1.0,1.0,0.6,FRA
+Chateauroux,1261.46,0.6,1.6,0.1,FRA
+Martigues,1350.03,1.2,1.6,0.3,FRA
+Caen,1329.72,1.0,2.4,0.3,FRA
+Cannes,1409.56,1.4,2.6,0.2,FRA
+Beauvais,1452.29,0.8,0.4,0.5,FRA
+Montpellier,1492.39,0.4,2.4,0.1,FRA
+Creteil,1339.03,1.4,1.8,0.4,FRA
+Lorient,1594.05,2.4,0.6,0.7,FRA
+Toulouse,1640.94,0.8,1.0,0.4,FRA
+Bastia,1442.23,2.0,1.8,0.4,FRA
+Nantes,1572.35,0.6,1.0,0.3,FRA
+Lens,1668.26,1.2,1.8,0.5,FRA
+Lyon,1734.61,1.8,1.6,0.4,FRA
+Rennes,1663.69,2.2,1.6,0.6,FRA
+Ajaccio,1380.09,1.0,1.0,0.6,FRA
+Le Mans,1298.77,0.8,1.6,0.3,FRA
+Lille,1772.78,1.6,1.0,0.7,FRA
+Monaco,1774.4,1.8,0.4,0.8,FRA
+Guingamp,1455.05,1.6,2.2,0.3,FRA
+St Etienne,1533.12,1.8,2.0,0.5,FRA
+Bordeaux,1436.39,1.8,1.4,0.4,FRA
+Metz,1561.29,2.4,2.0,0.5,FRA
+Auxerre,1624.61,1.6,1.8,0.3,FRA
+Sedan,1414.39,0.8,1.8,0.2,FRA
+Kocaelispor,1375.86,1.2,2.6,0.2,TUR
+Fenerbahce,1693.12,2.2,2.0,0.5,TUR
+Dortmund,1815.12,3.2,1.6,0.9,GER
+Hansa Rostock,1373.16,0.4,2.2,0.0,GER
+Hannover,1472.56,1.2,1.6,0.5,GER
+Nurnberg,1414.24,1.8,2.4,0.3,GER
+Wimbledon,1325.89,1.2,1.8,0.3,ENG
+Tranmere,1374.39,1.4,1.2,0.6,ENG
+Sheffield United,1606.57,1.2,1.0,0.4,ENG
+Portsmouth,1469.63,1.8,1.4,0.6,ENG
+Huddersfield,1395.12,0.4,1.2,0.2,ENG
+Watford,1462.46,0.8,1.4,0.2,ENG
+Nottm Forest,1731.5,1.2,1.8,0.6,ENG
+West Brom,1518.34,0.8,1.6,0.3,ENG
+Grimsby,1352.07,0.6,1.6,0.2,ENG
+Preston,1454.45,1.2,2.0,0.1,ENG
+Werder Bremen,1666.4,1.0,0.6,0.7,GER
+Cottbus,1393.82,0.6,2.4,0.2,GER
+QPR,1470.89,1.4,2.0,0.5,ENG
+Birmingham,1406.69,1.2,0.2,0.9,ENG
+Genclerbirligi,1308.11,1.8,2.8,0.4,TUR
+Rizespor,1356.08,2.0,1.4,0.6,TUR
+Besiktas,1494.38,2.4,1.0,0.7,TUR
+Yozgatspor,1364.65,1.4,1.4,0.4,TUR
+MGladbach,1656.9,1.6,1.0,0.6,GER
+Saarbrucken,1397.49,0.2,2.0,0.2,GER
+Leverkusen,1851.95,1.4,1.4,0.5,GER
+Wolfsburg,1636.86,1.2,2.4,0.2,GER
+Fulham,1776.09,1.4,1.8,0.4,ENG
+Crewe,1402.18,2.0,1.0,0.7,ENG
+Hamburg,1565.9,3.0,1.8,0.5,GER
+Munich 1860,1411.86,0.8,1.2,0.3,GER
+Freiburg,1695.54,2.0,1.2,0.9,GER
+Stuttgart,1710.07,2.0,1.4,0.5,GER
+Bursaspor,1379.19,0.4,0.8,0.4,TUR
+Gaziantepspor,1353.0,0.2,2.8,0.1,TUR
+Kaiserslautern,1456.6,1.4,1.6,0.5,GER
+Bochum,1524.27,0.6,1.6,0.2,GER
+Ahlen,1347.21,0.0,1.0,0.1,GER
+St Pauli,1592.58,1.0,1.0,0.5,GER
+Bayern Munich,1914.38,2.8,1.0,0.8,GER
+Hertha,1454.64,1.4,0.8,0.8,GER
+Bolton,1321.84,0.0,2.2,0.0,ENG
+Burnley,1714.82,2.2,0.6,0.9,ENG
+Louvieroise,1337.93,0.8,1.8,0.1,BEL
+Lokeren,1346.74,0.8,1.6,0.2,BEL
+Blackburn,1497.4,2.0,0.8,0.9,ENG
+Crystal Palace,1820.28,1.8,1.0,0.7,ENG
+Mechelen,1486.64,1.4,1.4,0.5,BEL
+Genk,1618.21,1.0,1.2,0.3,BEL
+Gillingham,1433.8,0.8,2.2,0.2,ENG
+Stockport,1317.89,1.8,1.2,0.6,ENG
+Beveren,1298.39,0.8,2.8,0.2,BEL
+Charleroi,1509.64,2.2,1.4,0.7,BEL
+Barnsley,1374.05,1.6,2.2,0.4,ENG
+Norwich,1488.5,1.0,2.0,0.2,ENG
+Erzurumspor,1285.69,1.0,1.6,0.2,TUR
+Trabzonspor,1463.93,1.6,1.8,0.5,TUR
+Westerlo,1459.62,2.8,2.0,0.7,BEL
+Antwerp,1553.82,1.2,1.6,0.5,BEL
+Wolves,1739.45,1.2,1.4,0.4,ENG
+Sheffield Weds,1476.45,1.0,1.4,0.4,ENG
+Siirt Jet-PA,1316.18,2.2,2.2,0.6,TUR
+Antalyaspor,1375.02,0.6,1.4,0.3,TUR
+Mannheim,1416.87,0.6,2.4,0.2,GER
+Aachen,1435.83,1.2,1.6,0.5,GER
+Greuther Furth,1392.9,0.4,1.0,0.2,GER
+Chemnitz,1343.0,0.8,1.6,0.4,GER
+Bielefeld,1469.93,1.4,1.8,0.4,GER
+Osnabruck,1342.81,0.4,3.0,0.1,GER
+Schalke 04,1415.08,0.6,2.0,0.1,GER
+FC Koln,1541.77,0.8,1.0,0.4,GER
+Ein Frankfurt,1734.56,2.0,0.6,0.7,GER
+Unterhaching,1389.51,0.8,0.8,0.5,GER
+Denizlispor,1261.18,1.0,2.6,0.1,TUR
+Galatasaray,1692.24,3.2,0.4,1.0,TUR
+Istanbulspor,1271.32,0.4,3.0,0.0,TUR
+Adanaspor,1349.21,1.2,1.8,0.4,TUR
+Harelbeke,1331.0,0.6,1.4,0.3,BEL
+Standard,1433.41,0.2,0.6,0.3,BEL
+Club Brugge,1745.35,1.8,0.6,0.7,BEL
+Gent,1497.33,0.4,3.4,0.0,BEL
+Aalst,1285.78,1.4,2.2,0.1,BEL
+Lierse,1297.92,1.4,1.8,0.4,BEL
+St Truiden,1441.7,1.4,1.6,0.6,BEL
+Anderlecht,1600.53,2.0,1.0,0.6,BEL
+Reutlingen,1478.17,1.0,1.2,0.5,GER
+Mainz,1703.02,1.4,1.8,0.4,GER
+Duisburg,1383.72,1.8,2.4,0.4,GER
+Ulm,1376.62,1.2,1.4,0.4,GER
+Beira Mar,1452.31,1.6,1.6,0.4,POR
+Boavista,1352.51,0.8,1.8,0.4,POR
+Derby,1458.25,1.2,0.8,0.6,ENG
+Southampton,1557.66,0.4,1.4,0.2,ENG
+Sp Braga,1647.99,1.8,1.0,0.6,POR
+Guimaraes,1579.96,1.4,1.2,0.6,POR
+Graafschap,1315.13,1.0,2.6,0.3,NED
+PSV Eindhoven,1793.04,3.8,1.0,1.0,NED
+Porto,1674.77,1.8,1.4,0.8,POR
+Benfica,1794.14,2.8,0.8,0.8,POR
+Feyenoord,1758.16,2.8,0.8,0.8,NED
+AZ Alkmaar,1623.19,2.0,0.8,0.7,NED
+Charlton,1398.32,0.6,0.4,0.7,ENG
+Man City,1945.1,1.6,0.4,0.9,ENG
+Chelsea,1880.42,1.4,0.8,0.8,ENG
+West Ham,1747.89,1.4,1.4,0.4,ENG
+Coventry,1535.68,1.0,1.0,0.5,ENG
+Middlesbrough,1529.45,0.6,1.0,0.3,ENG
+Sunderland,1526.13,0.2,1.2,0.1,ENG
+Arsenal,1985.45,2.0,1.2,0.6,ENG
+Leeds,1708.44,2.8,0.2,1.0,ENG
+Everton,1776.2,1.4,1.2,0.5,ENG
+Leicester,1611.09,1.2,1.2,0.5,ENG
+Aston Villa,1877.14,1.8,0.6,0.8,ENG
+Tottenham,1784.55,0.6,2.4,0.1,ENG
+Ipswich,1605.94,0.4,2.4,0.1,ENG
+NAC Breda,1353.71,0.6,1.8,0.2,NED
+Waalwijk,1363.69,1.0,3.0,0.2,NED
+Liverpool,2008.67,2.2,1.8,0.5,ENG
+Bradford,1323.78,0.6,1.8,0.1,ENG
+Gil Vicente,1430.86,1.2,0.8,0.5,POR
+Campomaiorense,1348.7,0.4,2.0,0.4,POR
+Samsunspor,1431.06,1.6,0.8,0.7,TUR
+Salgueiros,1346.44,1.0,2.2,0.2,POR
+Pacos Ferreira,1373.01,1.0,2.0,0.4,POR
+Sp Lisbon,1784.92,2.4,0.6,0.9,POR
+Farense,1396.31,0.8,0.8,0.5,POR
+Leiria,1492.15,0.6,1.6,0.3,POR
+Est Amadora,1494.59,0.8,1.0,0.5,POR
+Man United,1797.14,0.8,1.8,0.1,ENG
+Newcastle,1882.33,1.4,1.2,0.5,ENG
+Aves,1299.83,0.2,2.4,0.2,POR
+Belenenses,1405.52,1.2,1.8,0.3,POR
+Vitesse,1358.2,1.2,2.6,0.4,NED
+Twente,1584.27,1.6,1.4,0.5,NED
+Roosendaal,1302.88,1.0,2.4,0.1,NED
+Nijmegen,1502.63,1.8,0.6,0.7,NED
+Groningen,1418.43,2.6,2.0,0.5,NED
+Willem II,1321.88,0.8,1.6,0.1,NED
+Utrecht,1587.84,2.4,0.8,0.7,NED
+Heerenveen,1430.78,1.0,1.6,0.4,NED
+Oberhausen,1376.63,1.4,2.8,0.3,GER
+Alverca,1396.89,0.6,1.4,0.4,POR
+Maritimo,1396.97,1.4,1.8,0.3,POR
+Mouscron,1364.66,1.2,1.4,0.4,BEL
+Ajax,1657.26,1.0,2.2,0.4,NED
+For Sittard,1417.42,0.8,1.4,0.5,NED
+Swindon,1368.68,0.3333333333333333,2.6666666666666665,0.0,ENG
+Walsall,1375.28,0.8,2.0,0.3,ENG
+Port Vale,1378.04,1.6666666666666667,0.6666666666666666,0.6666666666666666,ENG
+Torino,1700.02,0.6,1.2,0.3,ITA
+Ancona,1421.37,0.8,2.0,0.1,ITA
+Lleida,1523.59,1.2,1.2,0.6,ESP
+Eibar,1529.63,1.6,0.6,0.7,ESP
+Getafe,1634.54,0.4,1.6,0.2,ESP
+Cordoba,1468.4,1.8,2.4,0.3,ESP
+Albacete,1495.25,1.8,1.8,0.6,ESP
+Tenerife,1433.67,0.4,0.8,0.3,ESP
+Leganes,1585.0,1.4,1.6,0.6,ESP
+Extremadura,1535.25,1.0,2.0,0.1,ESP
+Monza,1539.23,0.6,2.2,0.2,ITA
+Venezia,1577.94,1.0,1.8,0.4,ITA
+Cittadella,1376.74,1.0,1.2,0.3,ITA
+Piacenza,1371.13,0.6,1.4,0.3,ITA
+Cosenza,1370.23,0.8,1.4,0.3,ITA
+Pescara,1324.95,0.6,1.6,0.4,ITA
+Empoli,1580.87,1.6,1.4,0.5,ITA
+Pistoiese,1436.71,2.2,2.4,0.4,ITA
+Chievo,1469.02,1.4,1.6,0.4,ITA
+Genoa,1656.33,1.0,2.0,0.1,ITA
+Sampdoria,1429.78,0.8,0.6,0.6,ITA
+Ternana,1410.97,1.0,1.2,0.4,ITA
+Siena,1490.95,1.6,1.0,0.6,ITA
+Treviso,1379.39,0.6,1.2,0.3,ITA
+Cagliari,1600.04,1.6,1.4,0.4,ITA
+Crotone,1357.35,1.8,1.6,0.5,ITA
+Sevilla,1648.82,1.0,1.6,0.3,ESP
+Murcia,1591.91,2.0,1.4,0.7,ESP
+Ravenna,1382.11,1.0,1.8,0.4,ITA
+Salernitana,1439.85,1.4,1.0,0.6,ITA
+Levante,1605.75,1.6,1.0,0.7,ESP
+Ath Madrid,1856.09,2.2,0.6,0.7,ESP
+Sp Gijon,1483.88,1.8,2.0,0.4,ESP
+U.Las Palmas,1469.23,1.4,2.6,0.4,ESP
+Compostela,1524.47,0.8,1.6,0.4,ESP
+Betis,1765.54,2.2,1.8,0.6,ESP
+Jaen,1525.13,0.8,0.8,0.4,ESP
+Ferrol,1357.45,0.6,1.2,0.3,ESP
+Elche,1569.98,1.2,1.2,0.5,ESP
+Salamanca,1471.39,1.2,1.8,0.5,ESP
+Recreativo,1470.73,0.8,1.8,0.4,ESP
+Badajoz,1521.06,1.0,1.4,0.5,ESP
+Real Madrid,1931.44,2.2,1.4,0.8,ESP
+Valencia,1685.01,1.4,1.0,0.5,ESP
+Zaragoza,1460.76,1.4,1.0,0.7,ESP
+Espanol,1640.97,0.6,2.0,0.0,ESP
+Sociedad,1666.2,0.6,1.6,0.3,ESP
+Santander,1527.51,1.2,1.6,0.4,ESP
+La Coruna,1473.67,1.8,1.8,0.2,ESP
+Ath Bilbao,1786.69,1.0,0.0,0.9,ESP
+Barcelona,1946.63,2.2,1.4,0.8,ESP
+Malaga,1451.0,0.8,0.8,0.6,ESP
+Las Palmas,1583.07,0.4,1.4,0.0,ESP
+Alaves,1641.15,0.6,0.2,0.7,ESP
+Numancia,1470.05,1.0,1.8,0.4,ESP
+Oviedo,1574.9,1.2,0.4,0.9,ESP
+Osasuna,1676.5,1.6,1.0,0.7,ESP
+Celta,1694.08,2.0,1.4,0.6,ESP
+Mallorca,1652.13,0.8,1.4,0.2,ESP
+Valladolid,1482.18,0.6,2.2,0.0,ESP
+Villarreal,1769.85,2.4,0.8,1.0,ESP
+Vallecano,1651.11,1.2,1.2,0.7,ESP
+Bari,1457.39,1.0,1.4,0.4,ITA
+Verona,1590.47,0.4,1.2,0.2,ITA
+Napoli,1845.97,1.2,0.4,0.8,ITA
+Juventus,1802.87,1.2,0.6,0.6,ITA
+Atalanta,1858.67,2.2,0.8,0.9,ITA
+Lazio,1784.6,1.6,1.0,0.7,ITA
+Milan,1799.16,1.6,1.2,0.6,ITA
+Vicenza,1346.02,1.2,1.0,0.5,ITA
+Parma,1587.81,0.8,1.0,0.4,ITA
+Fiorentina,1748.7,1.6,1.4,0.6,ITA
+Perugia,1406.61,0.6,2.2,0.2,ITA
+Lecce,1563.71,0.6,1.2,0.4,ITA
+Reggina,1424.94,1.0,1.6,0.3,ITA
+Inter,1958.82,1.0,0.8,0.5,ITA
+Roma,1807.03,1.4,0.6,0.8,ITA
+Bologna,1781.7,1.0,1.4,0.4,ITA
+Udinese,1636.57,0.6,1.4,0.3,ITA
+Brescia,1413.25,1.0,1.0,0.5,ITA
+Babelsberg,1359.0,1.6,2.4,0.1,GER
+Livingston,1188.7,1.6,2.8,0.4,SCO
+Hearts,1398.3,1.6,0.6,0.7,SCO
+Aberdeen,1345.83,0.8,2.4,0.3,SCO
+Rangers,1590.22,2.4,1.2,0.7,SCO
+Dundee United,1294.29,0.6,2.6,0.2,SCO
+Dundee,1270.6,1.0,2.0,0.3,SCO
+Dunfermline,1181.7,1.6,2.6,0.3,SCO
+Motherwell,1309.38,1.6,1.2,0.7,SCO
+Hibernian,1427.1,2.0,1.4,0.5,SCO
+Kilmarnock,1333.38,1.6,2.0,0.6,SCO
+Celtic,1670.32,3.8,0.8,0.9,SCO
+St Johnstone,1233.78,1.0,1.8,0.2,SCO
+Amiens,1377.51,1.8,1.4,0.6,FRA
+Grenoble,1408.31,1.8,1.6,0.6,FRA
+Istres,1342.19,0.8,2.8,0.1,FRA
+Karlsruhe,1471.95,1.6,1.0,0.8,GER
+Schweinfurt,1395.01,1.0,3.6,0.1,GER
+Union Berlin,1607.53,1.4,2.0,0.4,GER
+Varzim,1400.21,2.6,1.2,0.8,POR
+Rotherham,1322.3,1.4,1.4,0.5,ENG
+Millwall,1518.7,1.4,1.0,0.8,ENG
+Diyarbakirspor,1351.58,0.6,2.0,0.2,TUR
+Goztep,1389.79,2.0,2.2,0.5,TUR
+Lommel,1371.01,1.8,2.6,0.4,BEL
+Molenbeek,1385.28,1.6,1.8,0.5,BEL
+Malatyaspor,1424.69,1.8,1.0,0.7,TUR
+Setubal,1366.18,0.6,1.6,0.1,POR
+Den Bosch,1333.44,0.8,1.6,0.3,NED
+Santa Clara,1477.46,1.2,0.8,0.6,POR
+Poli Ejido,1538.52,1.0,0.8,0.5,ESP
+Burgos,1486.82,1.2,1.8,0.2,ESP
+Xerez,1402.55,1.6,2.6,0.2,ESP
+Como,1658.42,1.8,0.4,0.9,ITA
+Modena,1458.79,1.6,2.2,0.3,ITA
+Messina,1442.64,0.6,1.4,0.3,ITA
+Palermo,1494.77,1.6,1.4,0.4,ITA
+Reims,1586.42,0.6,0.6,0.5,FRA
+Partick,1135.73,0.6,1.8,0.2,SCO
+Clermont,1399.92,1.2,1.8,0.4,FRA
+Valence,1431.11,1.2,0.8,0.7,FRA
+Bergen,1315.53,1.4,2.2,0.4,BEL
+Altay,1310.99,0.8,1.0,0.4,TUR
+Ein Trier,1438.08,0.4,1.8,0.2,GER
+Burghausen,1385.88,0.8,1.8,0.2,GER
+Brighton,1797.83,2.2,1.8,0.7,ENG
+Reading,1427.35,0.8,1.6,0.3,ENG
+Stoke,1464.15,0.8,1.8,0.5,ENG
+Lubeck,1453.8,1.2,1.2,0.4,GER
+Braunschweig,1388.8,1.8,1.6,0.6,GER
+Elazigspor,1439.77,0.8,1.0,0.4,TUR
+Zwolle,1454.79,1.4,1.6,0.6,NED
+Excelsior,1351.22,2.2,1.4,0.5,NED
+Academica,1378.47,0.8,1.6,0.2,POR
+Moreirense,1447.6,1.0,2.2,0.2,POR
+Nacional,1413.7,1.2,1.8,0.4,POR
+Almeria,1544.16,2.0,0.6,0.7,ESP
+Terrassa,1472.37,1.2,2.2,0.2,ESP
+Catania,1471.52,1.4,2.0,0.3,ITA
+Ascoli,1435.22,0.6,0.6,0.5,ITA
+Livorno,1274.05,0.6,2.4,0.0,ITA
+Triestina,1343.61,1.0,1.6,0.4,ITA
+Besancon,1394.26,0.0,0.0,0.5,FRA
+Erzgebirge Aue,1343.09,1.0,2.8,0.3,GER
+Regensburg,1321.17,1.2,1.4,0.5,GER
+Cardiff,1430.69,0.6,1.2,0.3,ENG
+Wigan,1418.15,0.6,1.0,0.4,ENG
+Konyaspor,1399.98,1.8,1.4,0.6,TUR
+Heusden Zolder,1362.2,1.4,2.0,0.5,BEL
+Cercle Brugge,1483.53,1.6,1.8,0.5,BEL
+A. Sebatspor,1371.54,1.6,3.0,0.3,TUR
+Den Haag,1298.93,1.0,1.8,0.5,NED
+Rio Ave,1452.09,1.2,1.8,0.4,POR
+Volendam,1291.02,1.2,3.6,0.2,NED
+Malaga B,1478.36,2.2,2.2,0.6,ESP
+Cadiz,1525.76,1.8,1.2,0.6,ESP
+Ciudad de Murcia,1615.08,1.6,0.8,0.9,ESP
+Algeciras,1506.6,1.6,1.8,0.4,ESP
+Albinoleffe,1279.27,0.6,1.4,0.3,ITA
+Avellino,1378.79,0.4,1.2,0.4,ITA
+Dijon,1374.19,1.8,0.6,0.8,FRA
+Brest,1688.52,1.6,2.0,0.5,FRA
+Sakaryaspor,1317.49,0.8,2.4,0.1,TUR
+Kayserispor,1394.59,1.2,1.2,0.6,TUR
+FC Brussels,1276.65,0.8,1.4,0.3,BEL
+Dresden,1392.9,1.2,1.4,0.4,GER
+Essen,1415.86,0.8,0.4,0.6,GER
+Erfurt,1385.84,1.6,2.4,0.5,GER
+Oostende,1359.81,1.2,3.6,0.1,BEL
+Ankaraspor,1463.94,0.6,1.4,0.4,TUR
+Pontevedra,1519.02,1.8,1.2,0.7,ESP
+Penafiel,1342.28,0.4,1.8,0.3,POR
+Estoril,1461.89,1.4,1.6,0.4,POR
+Cesena,1433.52,0.8,1.4,0.5,ITA
+Catanzaro,1473.46,1.4,1.8,0.4,ITA
+Arezzo,1522.05,1.6,1.4,0.7,ITA
+Valenciennes,1322.06,1.4,1.4,0.6,FRA
+Sete,1367.17,1.0,1.6,0.3,FRA
+Roeselare,1339.33,0.6,1.4,0.2,BEL
+Erciyesspor,1384.2,1.6,2.0,0.3,TUR
+Sivasspor,1367.78,0.8,1.6,0.3,TUR
+Waregem,1355.45,2.2,2.8,0.3,BEL
+Luton,1496.02,1.2,0.6,0.7,ENG
+Hull,1480.14,0.6,1.0,0.3,ENG
+Falkirk,1252.4,0.6,0.8,0.4,SCO
+Siegen,1330.03,1.0,2.2,0.3,GER
+Offenbach,1395.41,1.0,2.4,0.3,GER
+Paderborn,1505.94,1.8,1.2,0.7,GER
+Heracles,1416.63,1.2,2.6,0.4,NED
+Manisaspor,1382.26,0.8,2.4,0.2,TUR
+Naval,1493.71,1.2,1.2,0.4,POR
+Real Madrid B,1574.73,1.4,1.4,0.6,ESP
+Xanthi,1326.88,0.8,1.4,0.4,GRE
+PAOK,1544.4,2.0,2.2,0.6,GRE
+Lorca,1401.95,0.8,2.0,0.3,ESP
+Panathinaikos,1532.28,2.2,1.8,0.6,GRE
+Olympiakos,1658.27,2.4,1.2,0.8,GRE
+Castellon,1460.37,1.6,2.0,0.3,ESP
+Kalamaria,1352.84,0.8,2.0,0.2,GRE
+OFI,1276.54,0.0,3.0,0.0,GRE
+Akratitos,1219.17,0.6,2.4,0.1,GRE
+Iraklis,1319.3,1.6,0.6,0.8,GRE
+Panionios,1306.15,0.6,0.8,0.4,GRE
+Larisa,1240.27,1.0,0.8,0.6,GRE
+Hercules,1523.87,1.2,1.6,0.3,ESP
+Atromitos,1316.09,0.8,1.0,0.4,GRE
+AEK,1532.28,0.8,2.2,0.0,GRE
+Cremonese,1538.7,1.8,1.2,0.7,ITA
+Rimini,1460.11,1.4,1.4,0.5,ITA
+Levadeiakos,1312.16,1.8,1.0,0.7,GRE
+Ionikos,1318.44,2.2,1.0,0.8,GRE
+Mantova,1406.83,1.8,1.8,0.5,ITA
+Egaleo,1304.56,0.8,2.2,0.1,GRE
+Tours,1302.25,1.6,1.8,0.4,FRA
+Libourne,1370.62,1.0,2.0,0.2,FRA
+St Mirren,1359.14,2.0,1.2,0.8,SCO
+Colchester,1432.49,0.8,1.2,0.3,ENG
+Southend,1386.46,0.8,2.4,0.2,ENG
+CZ Jena,1365.64,0.6,3.0,0.2,GER
+Koblenz,1415.72,1.6,2.4,0.5,GER
+Augsburg,1628.3,0.6,2.0,0.3,GER
+Kerkyra,1281.32,0.8,0.6,0.5,GRE
+Ergotelis,1302.39,1.0,1.0,0.5,GRE
+Aris,1442.51,1.2,0.4,0.8,GRE
+Frosinone,1483.93,0.8,1.4,0.3,ITA
+Spezia,1527.4,1.8,1.8,0.4,ITA
+Gretna,1232.87,0.2,0.6,0.4,SCO
+Boulogne,1412.63,1.6,1.6,0.3,FRA
+Buyuksehyr,1458.43,2.2,3.0,0.4,TUR
+Bristol City,1538.02,1.2,2.0,0.5,ENG
+Blackpool,1417.94,1.8,1.2,0.6,ENG
+Scunthorpe,1355.15,1.0,2.0,0.3,ENG
+Dender,1398.38,2.0,1.8,0.5,BEL
+Kasimpasa,1443.69,1.8,1.2,0.5,TUR
+Hoffenheim,1610.46,2.4,2.4,0.4,GER
+Wehen,1372.38,0.8,2.0,0.1,GER
+Leixoes,1448.91,0.8,1.6,0.2,POR
+VVV Venlo,1301.3,0.8,2.8,0.1,NED
+Pisa,1537.95,1.6,1.0,0.7,ITA
+Grosseto,1302.19,0.6,1.8,0.2,ITA
+Granada 74,1506.26,1.2,1.8,0.3,ESP
+Sevilla B,1426.49,0.8,1.4,0.4,ESP
+Asteras Tripolis,1327.76,0.6,2.0,0.2,GRE
+Veria,1248.1,2.4,1.4,0.6,GRE
+Vannes,1389.38,2.6,2.4,0.7,FRA
+Swansea,1505.23,1.4,0.4,0.8,ENG
+Doncaster,1382.97,1.2,1.0,0.5,ENG
+Queen of Sth,1252.67,1.3333333333333333,1.3333333333333333,0.3333333333333333,SCO
+Hamilton,1205.7,0.8,2.2,0.0,SCO
+Tubize,1251.23,1.4,1.8,0.4,BEL
+Kortrijk,1373.2,2.0,1.2,0.7,BEL
+Ingolstadt,1350.81,0.6,1.6,0.3,GER
+Frankfurt FSV,1360.27,0.4,2.4,0.0,GER
+Hacettepespor,1368.68,1.2,1.4,0.4,TUR
+Eskisehirspor,1387.63,1.2,1.2,0.5,TUR
+Trofense,1439.0,1.2,2.0,0.3,POR
+Panthrakikos,1255.23,0.4,2.4,0.2,GRE
+Sassuolo,1632.47,1.6,0.8,0.7,ITA
+Alicante,1451.78,0.6,1.8,0.2,ESP
+Girona,1655.05,1.0,1.0,0.5,ESP
+Thrasyvoulos,1234.46,0.8,2.2,0.1,GRE
+Panserraikos,1252.49,1.0,1.6,0.4,GRE
+Huesca,1496.86,1.2,2.2,0.3,ESP
+Arles,1338.0,1.2,1.2,0.5,FRA
+Fortuna Dusseldorf,1518.66,2.0,1.4,0.7,GER
+Peterboro,1391.03,1.8,1.4,0.4,ENG
+Olhanense,1399.49,1.0,1.6,0.4,POR
+Padova,1320.54,1.4,1.4,0.5,ITA
+Gallipoli,1331.16,1.4,2.6,0.2,ITA
+Giannina,1317.17,1.0,2.6,0.2,GRE
+Kavala,1410.56,1.0,1.0,0.5,GRE
+Real Union,1486.21,1.8,2.6,0.6,ESP
+Villarreal B,1409.18,1.4,2.0,0.3,ESP
+Cartagena,1339.21,1.4,1.8,0.4,ESP
+Eupen,1330.23,0.6,1.6,0.3,BEL
+Roda,1320.38,2.6,1.4,0.7,NED
+Evian Thonon Gaillard,1408.51,0.8,0.8,0.4,FRA
+Portimonense,1358.96,1.2,2.2,0.3,POR
+Bucaspor,1336.23,2.2,3.0,0.3,TUR
+Karabukspor,1269.29,0.2,3.8,0.0,TUR
+Novara,1386.65,1.0,1.4,0.4,ITA
+Portogruaro,1323.21,1.0,2.2,0.2,ITA
+Varese,1335.82,0.8,1.0,0.4,ITA
+Ponferradina,1443.99,1.6,1.4,0.5,ESP
+Barcelona B,1469.84,1.2,1.0,0.5,ESP
+Alcorcon,1424.55,0.8,1.2,0.3,ESP
+Granada,1537.0,1.2,1.4,0.5,ESP
+Oud-Heverlee Leuven,1449.83,0.6,2.0,0.3,BEL
+Juve Stabia,1453.49,0.8,1.0,0.4,ITA
+Gubbio,1301.42,0.4,1.8,0.1,ITA
+Nocerina,1321.06,1.4,1.0,0.6,ITA
+Sabadell,1464.74,1.0,1.2,0.4,ESP
+Guadalajara,1524.09,1.2,1.0,0.5,ESP
+Alcoyano,1453.71,1.2,3.4,0.2,ESP
+Orduspor,1438.04,0.4,2.0,0.0,TUR
+Mersin Idman Yurdu,1339.04,0.4,3.2,0.0,TUR
+Fredrikstad,1356.61,1.0,2.6,0.4,NOR
+Stabaek,1293.82,1.2,1.2,0.5,NOR
+Haugesund,1322.8,0.8,1.8,0.3,NOR
+Molde,1546.5,3.6,1.4,0.8,NOR
+Sogndal,1244.77,0.8,1.6,0.3,NOR
+Honefoss,1258.23,0.8,1.0,0.4,NOR
+Lillestrom,1273.02,0.6,2.0,0.1,NOR
+Rosenborg,1444.91,2.4,0.6,0.8,NOR
+Silkeborg,1463.13,1.8,1.6,0.5,DEN
+Aarhus,1513.3,1.4,0.6,0.8,DEN
+Ried,1296.65,0.4,1.6,0.1,AUT
+Sturm Graz,1585.88,1.6,0.8,0.8,AUT
+Wacker Innsbruck,1373.46,2.2,2.2,0.4,AUT
+Salzburg,1556.85,1.8,1.0,0.7,AUT
+Valerenga,1348.05,0.4,1.6,0.2,NOR
+GAIS,1291.33,1.8,0.6,0.8,SWE
+Gefle,1225.02,0.8,1.6,0.1,SWE
+Mattersburg,1384.63,1.2,0.8,0.6,AUT
+Admira,1353.69,0.8,2.2,0.2,AUT
+Odense,1406.15,1.0,1.4,0.3,DEN
+Esbjerg,1267.35,1.2,2.2,0.2,DEN
+Aalesund,1216.61,1.0,2.8,0.1,NOR
+Tromso,1402.8,1.2,0.0,0.9,NOR
+Helsingborg,1192.74,0.8,1.6,0.4,SWE
+AIK,1391.91,1.2,0.4,0.8,SWE
+Syrianska,1174.59,1.2,2.0,0.2,SWE
+Elfsborg,1473.3,1.4,0.8,0.7,SWE
+Brann,1496.99,2.0,0.6,0.8,NOR
+Nordsjaelland,1556.76,2.0,2.6,0.3,DEN
+Brondby,1548.09,2.2,1.8,0.6,DEN
+Stromsgodset,1343.23,1.6,2.0,0.5,NOR
+Viking,1471.83,2.6,1.6,0.6,NOR
+Midtjylland,1564.46,2.0,1.0,0.8,DEN
+Kalmar,1293.94,1.6,1.2,0.6,SWE
+Legia,1500.74,1.4,1.2,0.5,POL
+Ruch,1264.51,0.8,1.2,0.5,POL
+Podbeskidzie,1203.39,0.8,1.2,0.3,POL
+Astra,1302.61,1.8,0.6,0.6,ROM
+Bistrita,1256.51,0.4,3.8,0.0,ROM
+Aalborg,1339.44,0.8,2.6,0.4,DEN
+Sandnes,1183.95,0.6,1.8,0.3,NOR
+Sundsvall,1162.15,1.0,3.0,0.1,SWE
+Djurgarden,1433.78,1.0,1.6,0.5,SWE
+CFR Cluj,1415.06,1.4,1.0,0.7,ROM
+Vaslui,1488.24,2.2,0.8,0.6,ROM
+Inter Turku,1216.48,2.6,0.2,1.0,FIN
+MyPa,1160.57,1.0,1.0,0.4,FIN
+Wisla,1262.62,0.6,1.2,0.3,POL
+Pandurii,1320.21,1.0,1.2,0.6,ROM
+Horsens,1287.97,0.8,2.4,0.1,DEN
+Jagiellonia,1417.0,1.4,1.4,0.5,POL
+Ross County,1244.02,1.0,2.2,0.1,SCO
+Sandhausen,1366.59,1.2,1.6,0.3,GER
+Aalen,1436.63,1.8,2.0,0.5,GER
+Akhisar Belediyespor,1351.89,1.0,1.6,0.2,TUR
+Mirandes,1544.15,1.6,0.8,0.9,ESP
+Lugo,1372.48,0.6,2.2,0.0,ESP
+Zenit,1666.16,1.4,0.6,0.7,RUS
+Rubin Kazan,1414.06,1.0,1.8,0.5,RUS
+Virtus Lanciano,1374.67,1.0,1.8,0.4,ITA
+Platanias,1253.77,0.4,2.0,0.1,GRE
+Pro Vercelli,1354.46,1.2,2.2,0.4,ITA
+Polonia Warszawa,1358.13,0.8,1.8,0.1,POL
+Piast Gliwice,1428.79,1.0,1.0,0.6,POL
+Kuban,1519.0,1.0,2.0,0.2,RUS
+Halmstad,1248.97,0.6,1.6,0.2,SWE
+Mariehamn,1192.89,1.8,1.2,0.6,FIN
+Start,1254.8,0.6,2.0,0.1,NOR
+Cracovia,1405.33,2.2,0.8,0.9,POL
+Brommapojkarna,1282.72,0.8,1.4,0.3,SWE
+Tomsk,1364.73,0.6,2.0,0.0,RUS
+Vestsjaelland,1305.59,1.4,0.8,0.7,DEN
+Zawisza,1305.86,0.8,2.2,0.2,POL
+Viborg,1442.12,1.8,2.0,0.4,DEN
+Yeovil,1373.17,0.4,2.4,0.1,ENG
+Bournemouth,1806.69,0.8,1.2,0.4,ENG
+Go Ahead Eagles,1513.18,0.6,1.0,0.5,NED
+Cambuur,1311.73,0.2,2.8,0.0,NED
+CA Bastia,1299.11,1.0,2.2,0.3,FRA
+Apollon,1176.88,0.4,1.6,0.3,GRE
+Arouca,1464.66,0.8,1.4,0.3,POR
+Panetolikos,1276.09,1.0,0.8,0.6,GRE
+Kallonis,1247.09,0.4,1.8,0.2,GRE
+Carpi,1316.79,1.4,1.8,0.3,ITA
+Latina,1358.08,1.0,1.0,0.5,ITA
+Trapani,1394.68,1.6,1.0,0.7,ITA
+Corona Brasov,1227.88,1.0,3.0,0.3,ROM
+Falkenbergs,1211.1,1.2,2.0,0.3,SWE
+Rovaniemi,1172.26,0.8,2.2,0.2,FIN
+Hobro,1279.84,1.6,1.6,0.5,DEN
+Altach,1321.57,0.6,1.6,0.1,AUT
+RB Leipzig,1725.62,1.4,2.0,0.5,GER
+Orleans,1299.1,0.6,2.0,0.2,FRA
+Darmstadt,1439.42,1.2,1.6,0.5,GER
+Heidenheim,1569.78,0.8,1.4,0.5,GER
+Brentford,1820.23,2.6,1.6,0.8,ENG
+Dordrecht,1227.58,0.8,2.2,0.2,NED
+Ufa,1394.21,1.0,1.6,0.4,RUS
+Llagostera,1530.07,0.6,0.4,0.6,ESP
+Niki Volos,1256.36,0.0,3.0,0.0,GRE
+Balikesirspor,1387.46,2.6,2.6,0.4,TUR
+Virtus Entella,1292.98,0.6,2.0,0.1,ITA
+Targu Mures,1307.2,0.6,0.8,0.3,ROM
+Mjondalen,1268.09,2.0,1.8,0.6,NOR
+Sandefjord,1319.32,1.2,1.6,0.5,NOR
+Hammarby,1465.45,1.0,0.2,0.6,SWE
+Lahti,1156.92,0.8,1.6,0.3,FIN
+Paris FC,1532.14,1.4,0.6,0.8,FRA
+Bourg Peronnas,1312.14,1.4,3.8,0.2,FRA
+Red Star,1368.18,1.2,1.4,0.4,FRA
+Milton Keynes Dons,1345.69,1.0,1.6,0.2,ENG
+Tondela,1385.44,0.6,2.0,0.2,POR
+Uniao Madeira,1368.54,1.2,1.8,0.2,POR
+Ath Bilbao B,1449.94,0.6,1.8,0.1,ESP
+Lyngby,1354.6,1.2,1.0,0.6,DEN
+Burton,1373.2,1.6,0.8,0.7,ENG
+Wurzburger Kickers,1342.47,1.2,2.6,0.3,GER
+Sparta Rotterdam,1497.5,1.6,1.0,0.6,NED
+Feirense,1315.73,1.6,2.6,0.2,POR
+Chaves,1357.23,0.8,1.8,0.3,POR
+Alanyaspor,1388.46,1.6,1.4,0.6,TUR
+Reus Deportiu,1449.94,0.0,1.0,0.0,ESP
+UCAM Murcia,1507.36,1.0,1.0,0.5,ESP
+Orenburg,1395.05,0.8,0.6,0.4,RUS
+Benevento,1417.64,1.4,1.6,0.5,ITA
+Spal,1397.61,0.8,1.2,0.3,ITA
+Kristiansund,1304.04,0.8,1.0,0.4,NOR
+Tosno,1441.56,0.0,2.6,0.0,RUS
+Helsingor,1227.3,1.0,2.0,0.2,DEN
+LASK,1438.73,0.8,1.2,0.2,AUT
+Quevilly Rouen,1375.17,1.2,1.6,0.3,FRA
+Holstein Kiel,1540.36,2.0,1.8,0.5,GER
+Leonesa,1482.12,1.6,1.0,0.7,ESP
+Lamia,1177.93,1.0,1.2,0.4,GRE
+Foggia,1370.34,1.2,1.0,0.5,ITA
+Ranheim,1227.98,1.4,1.8,0.5,NOR
+Dalkurd,1231.32,0.6,2.2,0.2,SWE
+Vendsyssel,1272.82,1.0,1.6,0.2,DEN
+Vejle,1312.06,0.2,2.4,0.0,DEN
+Beziers,1323.57,2.0,2.0,0.6,FRA
+Hartberg,1394.55,1.0,1.2,0.4,AUT
+Yenisey,1401.24,0.8,0.8,0.5,RUS
+Magdeburg,1445.38,1.4,0.8,0.5,GER
+Erzurum BB,1329.3,1.4,2.4,0.2,TUR
+FC Emmen,1366.31,1.2,3.2,0.2,NED
+Rayo Majadahonda,1439.17,1.6,2.4,0.1,ESP
+Tambov,1276.14,0.8,2.4,0.3,RUS
+Sochi,1403.27,0.2,1.2,0.3,RUS
+Rodez,1428.59,1.6,1.6,0.5,FRA
+Chambly,1330.2,1.6,0.8,0.7,FRA
+Rakow,1457.72,0.6,1.0,0.3,POL
+Famalicao,1505.4,1.4,1.4,0.3,POR
+Fuenlabrada,1426.24,1.4,1.6,0.3,ESP
+Pordenone,1265.36,1.4,2.4,0.3,ITA
+Chindia Targoviste,1214.9,1.2,0.8,0.8,ROM
+Beerschot VA,1324.82,1.2,1.6,0.2,BEL
+Pau FC,1401.06,1.4,2.6,0.4,FRA
+Dunkerque,1432.83,1.0,0.6,0.5,FRA
+Mioveni,1124.04,0.8,0.8,0.4,ROM
+Hatayspor,1253.83,2.6,2.4,0.5,TUR
+Wycombe,1428.67,1.2,0.6,0.6,ENG
+Karagumruk,1421.72,2.2,1.8,0.5,TUR
+Logrones,1426.33,0.6,1.8,0.3,ESP
+Stal Mielec,1319.41,1.4,1.4,0.6,POL
+Reggiana,1388.06,1.8,1.4,0.8,ITA
+UTA Arad,1278.28,0.8,1.0,0.4,ROM
+Degerfors,1227.1,1.0,1.8,0.4,SWE
+Seraing,1299.41,0.4,2.6,0.0,BEL
+St. Gilloise,1716.52,1.4,0.0,0.9,BEL
+Vizela,1365.98,0.8,1.6,0.1,POR
+Ibiza,1377.14,0.4,1.6,0.3,ESP
+Amorebieta,1447.21,1.0,1.4,0.6,ESP
+Sociedad B,1438.89,1.6,1.6,0.6,ESP
+Ad. Demirspor,1238.46,0.6,3.0,0.0,TUR
+Giresunspor,1362.7,1.4,1.2,0.5,TUR
+Alessandria,1327.44,1.4,1.0,0.6,ITA
+Ham-Kam,1279.15,2.2,1.2,0.8,NOR
+Jerv,1198.53,1.6,2.0,0.4,NOR
+Varnamo,1320.4,0.6,2.0,0.1,SWE
+Annecy,1423.44,1.2,0.8,0.6,FRA
+Casa Pia,1465.8,0.8,1.2,0.4,POR
+Umraniyespor,1362.33,1.6,0.8,0.5,TUR
+Fakel Voronezh,1362.81,0.6,1.2,0.4,RUS
+Sudtirol,1432.77,2.0,1.4,0.7,ITA
+Gloria Buzau,1136.27,1.0,5.0,0.0,ROM
+Haka,1215.23,0.0,3.0,0.0,FIN
+Baltika,1373.02,0.0,1.0,0.1,RUS
+Elversberg,1494.85,2.2,0.8,0.8,GER
+Concarneau,1320.96,1.2,1.6,0.3,FRA
+Plymouth,1435.28,1.6,1.6,0.6,ENG
+Pendikspor,1308.86,1.2,2.0,0.3,TUR
+Eldense,1423.86,1.2,2.0,0.5,ESP
+Almere City,1341.64,0.4,2.2,0.2,NED
+BW Linz,1350.76,1.2,0.8,0.7,AUT
+Lecco,1319.36,0.6,2.2,0.2,ITA
+KFUM Oslo,1299.74,0.8,0.8,0.5,NOR
+Motor Lublin,1298.68,0.0,1.5,0.0,POL
+Akron Togliatti,1332.2,1.5,1.0,0.5,RUS
+Preussen Munster,1380.23,0.8,1.0,0.4,GER
+AVS,1366.44,0.6,3.2,0.1,POR
+Oxford,1446.53,1.0,1.0,0.5,ENG
+Eyupspor,1365.11,0.4,2.8,0.0,TUR
+Carrarese,1417.32,1.2,1.4,0.5,ITA
+Bodrumspor,1345.44,0.6,1.2,0.3,TUR
+Dynamo Makhachkala,1296.83,0.0,0.0,0.0,RUS
+Unirea Slobozia,1199.13,0.0,0.0,0.0,ROM
+Nott'm Forest,1799.76,1.4,1.4,0.6,ENG
+M'gladbach,1641.34,2.0,3.0,0.1,GER
