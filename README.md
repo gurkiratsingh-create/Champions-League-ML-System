@@ -174,6 +174,16 @@ streamlit run app/dashboard.py
 
 ---
 
+## 🌍 Live Demo
+
+Frontend:
+https://champions-league-ml-system.streamlit.app/
+
+Backend API Docs:
+https://champions-league-ml-system.onrender.com/docs
+
+---
+
 ## 📈 Model Evaluation
 
 - Multi-class classification (Home / Draw / Away)
